@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>Hi, This is a new Jsp file</h1>
-	<p>Welcome</p>
+	<p>Welcome hi</p>
 </body>
 </html>
